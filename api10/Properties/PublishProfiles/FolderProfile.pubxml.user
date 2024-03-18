@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\code\netcore\10apinetcore7\api10deploy</_PublishTargetUrl>
+    <History>True|2024-03-18T02:49:58.2334752Z;False|2024-03-17T23:46:09.6617059-03:00;False|2024-03-17T23:39:22.4590302-03:00;True|2024-03-17T20:17:41.2679401-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
